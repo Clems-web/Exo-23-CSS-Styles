@@ -1,1 +1,13 @@
+body {
+    font: 15px helvetica, arial, sans-serif;
+    line-height: 1.5;
+}
 
+h1 {
+    font: 18px bold;
+    color: #454545;
+}
+
+h1 + p {
+    color: #7a7a7a;
+}
